@@ -1,7 +1,5 @@
 # Titanic Dataset Analysis
-
-This repository contains a Jupyter Notebook that performs **exploratory data analysis (EDA)** on the Titanic dataset. The analysis focuses on **subtle, non-obvious patterns** rather than the usual survival statistics. The goal is to uncover unique insights about passengers’ demographics, fares, family size, and travel behavior.
-
+This is a Analysis on Titanic Database
 ## Dataset
 
 The dataset used is `titanic.csv`, downloaded from [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data). Please place the CSV file in the same directory as the notebook before running it.
